@@ -22,7 +22,7 @@ https://www.iium.edu.my/kict
 
 
 <b>Contact Us: </b><br>
-* Email: coexcys-coe@iium.edu.my
+* Email: cybersec-coe@iium.edu.my
 <br><br>
 
 <b>Terms of Use:</b><br>
