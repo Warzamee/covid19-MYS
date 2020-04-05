@@ -21,9 +21,16 @@ https://www.iium.edu.my/kict
 
 
 <b>Contact Us: </b><br>
-* Email: coexcys_coe@iium.edu.my
+* Email: coexcys-coe@iium.edu.my
 <br><br>
 
 <b>Terms of Use:</b><br>
 
 This GitHub repo and its contents herein, including all data and code copyright 2020 International Islamic University Malaysia, all rights reserved, is provided to the public strictly for educational and academic research purposes.  The Website relies upon publicly available data from multiple sources, that do not always agree. The International Islamic University Malaysia hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability.  Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
+
+<br><br>
+
+<b>Contributors</b>
+* Normaziah Abdul Aziz
+* Irfan
+* Rizal Mohd Nor
