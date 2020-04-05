@@ -32,6 +32,6 @@ This GitHub repo and its contents herein, including all data and code copyright 
 <br><br>
 
 <b>Contributors</b>
-* Normaziah Abdul Aziz
-* Irfan
-* Rizal Mohd Nor
+* Normaziah Abdul Aziz, DCS, KICT, IIUM
+* Irfan Azmi, UM
+* Rizal Mohd Nor, DCS, KICT, IIUM
